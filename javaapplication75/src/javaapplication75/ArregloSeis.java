@@ -7,7 +7,7 @@ package javaapplication75;
 
 /**
  *
- * @author reroes
+ * @author andresvallejoz1991
  */
 public class ArregloSeis {
 
